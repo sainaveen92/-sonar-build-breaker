@@ -117,3 +117,4 @@ Pull requests are welcome, but may not always be reviewed immediately. We try ou
     1. You can use the scripts in the `verification` folder to check compatibility. See the [verification/README.md](verification/README.md) for details.
     2. If you need to upgrade the base SonarQube version, create an issue for discussion first
     3. Once upgraded, the base version will not be downgraded
+# -sonar-build-breaker
